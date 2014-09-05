@@ -1,0 +1,10 @@
+Localization_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/Localization_MRPT.git',
+  hash: 6c44b056f7ac7490dc77762f7bf6ab2361a2696b}
+MapServer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapServer.git',
+  hash: 2baefcaffe48021e30fd6f9c501555944b173556}
+MapperViewer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapperViewer.git',
+  hash: a34ebff9554c632407623c6066a88c5acd5bf5c2}
+PathPlanner_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/PathPlanner_MRPT.git',
+  hash: df84e700848d045165f6cac2ac08ac437952afb9}
+SimulationManager: {description: '', git: 'https://github.com/ogata-lab/SimulationManager.git',
+  hash: d3813e35272cb3993b41318b12d169938317eb9c}

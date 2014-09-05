@@ -1,5 +1,5 @@
 Localization_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/Localization_MRPT.git',
-  hash: 6c44b056f7ac7490dc77762f7bf6ab2361a2696b}
+  hash: 10823e566ff66059965c5973d8ee34f2eeba850d}
 MapServer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapServer.git',
   hash: 2baefcaffe48021e30fd6f9c501555944b173556}
 MapperViewer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapperViewer.git',

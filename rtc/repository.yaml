@@ -1,10 +1,15 @@
 Localization_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/Localization_MRPT.git',
-  hash: 10823e566ff66059965c5973d8ee34f2eeba850d}
+  hash: 0e7fd621e2f4c63a6728e84fb38275ec20f1d468}
 MapServer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapServer.git',
   hash: 2baefcaffe48021e30fd6f9c501555944b173556}
 MapperViewer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapperViewer.git',
-  hash: a34ebff9554c632407623c6066a88c5acd5bf5c2}
+  hash: 78fd718e127eed1e3482ec886cbb3b1aa9982120}
+MobileRobotKinematics: {description: '', git: 'https://github.com/sugarsweetrobotics/MobileRobotKinematics.git',
+  hash: 8b148c517e7bc55f1f3cfa39eb6289782ce5abd2}
 PathPlanner_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/PathPlanner_MRPT.git',
-  hash: df84e700848d045165f6cac2ac08ac437952afb9}
-SimulationManager: {description: '', git: 'https://github.com/ogata-lab/SimulationManager.git',
-  hash: d3813e35272cb3993b41318b12d169938317eb9c}
+  hash: 2f877389232b42f173850059241a8b118d0dc145}
+SimplePathFollower: {description: '', git: 'https://github.com/sugarsweetrobotics/SimplePathFollower.git',
+  hash: 38a706a35a0fea7eb4176ae072265c96daef7381}
+SimulationManager: {description: Test Component for Simulator, git: 'https://github.com/ogata-lab/SimulationManager.git
+
+    ', hash: d3813e35272cb3993b41318b12d169938317eb9c, repo_name: SimulationManager}

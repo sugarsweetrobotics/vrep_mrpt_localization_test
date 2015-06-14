@@ -1,5 +1,5 @@
 # Image File Name
-image : testMap04.png
+image : testMap02.png
 # Configuration
 config : 
 # Resolution of Map. Length of 1 px in meter.
@@ -9,7 +9,7 @@ config :
 # X-Axis is horizontally, left to right.
 # Y-Axis is vertically, bottom to top.
   origin_x : 16.950000252574682
-  origin_y : -22.950000148266554
+  origin_y : -21.950000327080488
   origin_th : 0.0
 # If multiple Map is used, row and column must be set.
   row : 0

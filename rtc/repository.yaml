@@ -10,6 +10,4 @@ PathPlanner_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/
   hash: 2f877389232b42f173850059241a8b118d0dc145}
 SimplePathFollower: {description: '', git: 'https://github.com/sugarsweetrobotics/SimplePathFollower.git',
   hash: 38a706a35a0fea7eb4176ae072265c96daef7381}
-SimulationManager: {description: Test Component for Simulator, git: 'https://github.com/ogata-lab/SimulationManager.git
-
-    ', hash: d3813e35272cb3993b41318b12d169938317eb9c, repo_name: SimulationManager}
+SimulationManager: {description: Test Component for Simulator, git: 'https://github.com/ogata-lab/SimulationManager.git', hash: d3813e35272cb3993b41318b12d169938317eb9c, repo_name: SimulationManager}
